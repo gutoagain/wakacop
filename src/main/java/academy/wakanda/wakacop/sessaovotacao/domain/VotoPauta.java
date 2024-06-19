@@ -2,7 +2,7 @@ package academy.wakanda.wakacop.sessaovotacao.domain;
 
 import academy.wakanda.wakacop.pauta.domain.Pauta;
 import academy.wakanda.wakacop.sessaovotacao.application.api.VotoRequest;
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
